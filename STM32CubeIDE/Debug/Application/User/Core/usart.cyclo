@@ -1,0 +1,4 @@
+D:/OneDrive - student.tdtu.edu.vn/Project/Da Nang 2026/2 mat tu xa/Test_code_h7/Core/Src/usart.c:33:6:MX_UART8_Init	5
+D:/OneDrive - student.tdtu.edu.vn/Project/Da Nang 2026/2 mat tu xa/Test_code_h7/Core/Src/usart.c:79:6:MX_USART1_UART_Init	5
+D:/OneDrive - student.tdtu.edu.vn/Project/Da Nang 2026/2 mat tu xa/Test_code_h7/Core/Src/usart.c:122:6:HAL_UART_MspInit	7
+D:/OneDrive - student.tdtu.edu.vn/Project/Da Nang 2026/2 mat tu xa/Test_code_h7/Core/Src/usart.c:241:6:HAL_UART_MspDeInit	3

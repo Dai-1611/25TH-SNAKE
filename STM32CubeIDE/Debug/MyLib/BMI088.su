@@ -1,0 +1,7 @@
+D:/OneDrive - student.tdtu.edu.vn/Project/Da Nang 2026/2 mat tu xa/Test_code_h7/MyLib/BMI088.c:16:16:BMI088readByte	32	static
+D:/OneDrive - student.tdtu.edu.vn/Project/Da Nang 2026/2 mat tu xa/Test_code_h7/MyLib/BMI088.c:44:13:BMI088writeByte	32	static
+D:/OneDrive - student.tdtu.edu.vn/Project/Da Nang 2026/2 mat tu xa/Test_code_h7/MyLib/BMI088.c:70:13:BMI088readAxisData	64	static
+D:/OneDrive - student.tdtu.edu.vn/Project/Da Nang 2026/2 mat tu xa/Test_code_h7/MyLib/BMI088.c:99:6:initBMI088	8	static
+D:/OneDrive - student.tdtu.edu.vn/Project/Da Nang 2026/2 mat tu xa/Test_code_h7/MyLib/BMI088.c:155:6:BMI088getGyro	24	static
+D:/OneDrive - student.tdtu.edu.vn/Project/Da Nang 2026/2 mat tu xa/Test_code_h7/MyLib/BMI088.c:181:6:BMI088getAccele	24	static
+D:/OneDrive - student.tdtu.edu.vn/Project/Da Nang 2026/2 mat tu xa/Test_code_h7/MyLib/BMI088.c:210:6:BMI088getTemp	16	static

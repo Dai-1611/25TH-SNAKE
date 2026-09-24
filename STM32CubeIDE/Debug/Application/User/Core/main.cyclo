@@ -1,0 +1,14 @@
+D:/OneDrive - student.tdtu.edu.vn/Project/Da Nang 2026/2 mat tu xa/Test_code_h7/Core/Src/main.c:103:6:HAL_TIM_PeriodElapsedCallback	2
+D:/OneDrive - student.tdtu.edu.vn/Project/Da Nang 2026/2 mat tu xa/Test_code_h7/Core/Src/main.c:116:6:HAL_UART_TxCpltCallback	2
+D:/OneDrive - student.tdtu.edu.vn/Project/Da Nang 2026/2 mat tu xa/Test_code_h7/Core/Src/main.c:125:6:HAL_GPIO_EXTI_Callback	5
+D:/OneDrive - student.tdtu.edu.vn/Project/Da Nang 2026/2 mat tu xa/Test_code_h7/Core/Src/main.c:144:15:getdipsw	4
+D:/OneDrive - student.tdtu.edu.vn/Project/Da Nang 2026/2 mat tu xa/Test_code_h7/Core/Src/main.c:152:15:getbutton	2
+D:/OneDrive - student.tdtu.edu.vn/Project/Da Nang 2026/2 mat tu xa/Test_code_h7/Core/Src/main.c:160:5:getServoAngle	1
+D:/OneDrive - student.tdtu.edu.vn/Project/Da Nang 2026/2 mat tu xa/Test_code_h7/Core/Src/main.c:163:6:motor_servo	9
+D:/OneDrive - student.tdtu.edu.vn/Project/Da Nang 2026/2 mat tu xa/Test_code_h7/Core/Src/main.c:204:6:ServoControl	3
+D:/OneDrive - student.tdtu.edu.vn/Project/Da Nang 2026/2 mat tu xa/Test_code_h7/Core/Src/main.c:229:6:ServoControl2	3
+D:/OneDrive - student.tdtu.edu.vn/Project/Da Nang 2026/2 mat tu xa/Test_code_h7/Core/Src/main.c:278:5:main	10
+D:/OneDrive - student.tdtu.edu.vn/Project/Da Nang 2026/2 mat tu xa/Test_code_h7/Core/Src/main.c:474:6:SystemClock_Config	4
+D:/OneDrive - student.tdtu.edu.vn/Project/Da Nang 2026/2 mat tu xa/Test_code_h7/Core/Src/main.c:532:6:PeriphCommonClock_Config	2
+D:/OneDrive - student.tdtu.edu.vn/Project/Da Nang 2026/2 mat tu xa/Test_code_h7/Core/Src/main.c:561:6:MPU_Config	1
+D:/OneDrive - student.tdtu.edu.vn/Project/Da Nang 2026/2 mat tu xa/Test_code_h7/Core/Src/main.c:592:6:Error_Handler	1
