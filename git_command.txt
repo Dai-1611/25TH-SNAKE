@@ -1,0 +1,10 @@
+Luôn luôn lụm sub module khi clone:
+And you can make it easier with aliases:
+	git config --global alias.clone-all 'clone --recurse-submodules'
+	git config --global alias.pull-all 'pull --recurse-submodules'
+
+
+Nếu lỡ clone về mà quên thêm --recurse-submodules
+//Ensure All Submodules Are Initialized If submodules are not yet initialized, run:
+	git submodule update --init --recursive
+
