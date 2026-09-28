@@ -1,0 +1,6 @@
+[submodule "path-to-submodule"]
+	path = path-to-submodule
+	url = https://github.com/Dai-1611/25TH-SNAKE-PRIVATE-SOLID.git
+[submodule "SUB_MODULE_PRIVATE_SOLID"]
+	path = SUB_MODULE_PRIVATE_SOLID
+	url = https://github.com/Dai-1611/25TH-SNAKE-PRIVATE-SOLID.git
